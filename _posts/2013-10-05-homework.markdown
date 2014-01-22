@@ -1,0 +1,22 @@
+---
+layout: post
+title: Lekcja 4 Exercises
+date: 2013-10-05
+categories: homework
+---
+
+Hey! Here's the homework for this week - let me know if you have any troubles!
+
+In the PDF attached, I only want you to do the exercises circled in *green*.
+
+| Exercise | Instructions |
+| -------- | ------------ |
+| Ex. 1    | Fill in the missing letters to make the correct words. |
+| Ex. 2   | Match up the pairs. In the example, we have *brat ojca = wujek* (the brother of my father is my uncle.) |
+| Ex. 3   | More number practice! Match up the numbers to their Polish language descriptions. |
+| Ex. 4   | At the bottom of each ticket stub, write down in words (Polish ones!)|
+| Ex. 5   | Fill in the missing words from those provided in the box. The example: *on pracuje w restauracji - kelner* (he works in a restaurant - waiter). You might need to use a dictionary for this one! |
+
+That's all for now!
+
+[Download the exercise sheets](/assets/homework_pdfs/lekcja4-cwiczenia-a.pdf)

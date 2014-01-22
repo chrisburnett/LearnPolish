@@ -1,0 +1,41 @@
+---
+layout: post
+title: Lekcja 4 Exercises, part 2
+date: 2013-10-19
+categories: homework
+---
+
+In the PDF attached, I only want you to do the exercises circled in *orange*. If you didn't manage to do the previous homework, they're highlighted in green boxes, give them a try too!
+
+| Exercise | Instructions |
+| -------- | ------------ |
+| Ex. 7    | Change the works in brackets into accusative (*bierknik*) |
+| Ex. 8   | Here, you need to use the correct question words to ask about the underlined word. See my notes below! |
+| Ex. 9   | Underline the correct word from the choice of three in each line. |
+
+[Download the exercise sheets](/assets/homework_pdfs/lekcja4-cwiczenia-b.pdf)
+
+
+Jaki, jaka, jakie...
+====================
+
+Sometimes, you'll want to ask questions about objects. In English, you do this in a number of ways, for example, "what is it like?", "what kind of car do you have" and so on. Here, you're asking a question about a *noun* and expecting *adjectives* (describing words) in response.
+
+In Polish, there's a bunch of words for doing this. We saw a while ago that the words `jaki`, `jaka` and `jakie` are used for asking about male, female and neutral nouns.
+
+| Polish | English |
+| ------ | ------- |
+| Jaka ona jest? | What is she like? |
+
+Obviously, being Polish, this isn't the whole story :)
+
+When you're asking a question that involves a verb, this will often result in an answer in accusative, so you need to use the *accusative* forms of `jaki`, `jaka` and `jakie`, like this
+
+| Polish | English |
+| ------ | ------- |
+| Jak**ą** masz siostrę? Mam młodsz**ą** siostrę. | What kind of sister do you have? I have a younger sister. |
+| Jaki**ego** masz brata? Mam młodsz**ego** brata. | What kind of brother do you have? I have a younger brother. |
+
+This follows the rules for adjectives in accusative. So, it doesn't apply to non-living male things or neutral things.
+
+Think of `jaki`, `jaka` and `jakie` as *placeholders* for the adjectives you're expecting in response to your question - they therefore need to be in the appropriate case. It is quite mental.

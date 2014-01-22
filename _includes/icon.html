@@ -1,0 +1,10 @@
+<div class="icon">
+  {% case page.categories.first %}
+  {% when 'homework' %}
+  <img src="/assets/img/glyphicons/png/glyphicons_351_book_open.png">
+  {% when 'recap' %}
+  <img src="/assets/img/glyphicons/png/glyphicons_081_refresh.png">
+  {% when 'announcement' %}
+  <img src="/assets/img/glyphicons/png/glyphicons_195_circle_info.png">
+  {% endcase %}
+</div>
